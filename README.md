@@ -1,0 +1,2 @@
+# PNINFOSYS-Sales-Business-Performance-Dashboard
+Developed a Sales &amp; Business Performance Dashboard for PNINFOSYS using Power BI to track key metrics, analyze sales trends, monitor revenue and evaluate business performance. The interactive dashboard transforms raw data into clear insights, helping users identify growth opportunities, compare performance and make data-driven business decisions.
